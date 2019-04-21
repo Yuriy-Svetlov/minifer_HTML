@@ -1,0 +1,27 @@
+{
+  "name": "minifer HTML",
+  "version": "0.0.1",
+  "description": "Very light minifier HTML",
+  "keywords": [
+    "minifer HTML",
+    "compress HTML"    
+  ],
+  "homepage": "https://github.com/semiromid/minifer_HTML",
+  "bugs": "https://github.com/semiromid/minifer_HTML/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Yurii Svetlov",
+    "email": "startpascal1@mail.ru"
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semiromid/minifer_HTML.git"
+  }
+
+}
