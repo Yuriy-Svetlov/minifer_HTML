@@ -1,9 +1,9 @@
 {
-  "name": "minifer HTML",
-  "version": "0.0.1",
+  "name": "minifer_html",
+  "version": "0.0.2",
   "description": "Very light minifier HTML",
   "keywords": [
-    "minifer HTML",
+    "minifier HTML",
     "compress HTML"    
   ],
   "homepage": "https://github.com/semiromid/minifer_HTML",

@@ -2,12 +2,11 @@
 
 var index = function (data) {
     
-	function minifer_HTML(html){
-	  html = html.replace(/  +/g, ' ');
-	  html = html.replace(/>\n+</g, '><');
-	  return html.replace(/\n+/g, ' ');
-	}
+	   function compressHTML(html){
+	    html = html.replace(/>\s+</g, '><');  
+	    return html.replace(/\s+/g, ' ');
+	   }
 
-    return minifer_HTML(data);
+    return compressHTML(data);
 }
 module.exports = index;

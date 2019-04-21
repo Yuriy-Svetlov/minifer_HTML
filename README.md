@@ -6,11 +6,10 @@ May use as module NodeJS or use simple function `minifer_HTML`
 
 ```javascript
 
-function minifer_HTML(html){
-  html = html.replace(/  +/g, ' ');
-  html = html.replace(/>\n+</g, '><');
-  return html.replace(/\n+/g, ' ');
-}
+	   function compressHTML(html){
+	    html = html.replace(/>\s+</g, '><');  
+	    return html.replace(/\s+/g, ' ');
+	   }
 
 ```
 
