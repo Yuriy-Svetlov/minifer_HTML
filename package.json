@@ -1,17 +1,17 @@
 {
   "name": "minifer_html",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Very light minifier HTML",
   "keywords": [
     "minifier HTML",
     "compress HTML"    
   ],
-  "homepage": "https://github.com/semiromid/minifer_HTML",
-  "bugs": "https://github.com/semiromid/minifer_HTML/issues",
+  "homepage": "https://github.com/Yuriy-Svetlov/minifer_HTML",
+  "bugs": "https://github.com/Yuriy-Svetlov/minifer_HTML/issues",
   "license": "MIT",
   "author": {
-    "name": "Yurii Svetlov",
-    "email": "startpascal1@mail.ru"
+    "name": "Yuriy-Svetlov",
+    "email": "sominiurii@gmail.com"
   },
   "files": [
     "LICENSE",
@@ -21,7 +21,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/semiromid/minifer_HTML.git"
+    "url": "https://github.com/Yuriy-Svetlov/minifer_HTML.git"
   }
 
 }
